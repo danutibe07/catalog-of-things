@@ -1,0 +1,68 @@
+{
+  "1": {
+    "id": 838,
+    "genre": null,
+    "author": null,
+    "source": null,
+    "publisher": "xxx xxx",
+    "cover_state": "bad",
+    "label": null,
+    "publish_date": null,
+    "archived": true
+  },
+  "2": {
+    "id": 656,
+    "genre": null,
+    "author": null,
+    "source": null,
+    "publisher": "yyy",
+    "cover_state": "good",
+    "label": null,
+    "publish_date": null,
+    "archived": false
+  },
+  "3": {
+    "id": 396,
+    "genre": null,
+    "author": null,
+    "source": null,
+    "publisher": "zzzzz zz",
+    "cover_state": "good",
+    "label": null,
+    "publish_date": null,
+    "archived": false
+  },
+  "4": {
+    "id": 31,
+    "genre": null,
+    "author": null,
+    "source": null,
+    "publisher": "ddd dd",
+    "cover_state": "good",
+    "label": null,
+    "publish_date": null,
+    "archived": false
+  },
+  "5": {
+    "id": 207,
+    "genre": null,
+    "author": null,
+    "source": null,
+    "publisher": "Gym",
+    "cover_state": "bad",
+    "label": null,
+    "publish_date": null,
+    "archived": true
+  },
+  "6": {
+    "id": 830,
+    "genre": null,
+    "author": null,
+    "source": null,
+    "publisher": "Microverse",
+    "cover_state": "good",
+    "label": null,
+    "publish_date": "2023/06/06",
+    "archived": false
+  }
+}
